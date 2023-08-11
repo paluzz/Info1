@@ -11,4 +11,4 @@
 
 - Funciones para controlar vectores
 
-- Para mas informacion [ver](Info1/Utils/funciones.c)
+- Para mas informacion [ver](/Utils/funciones.c)
