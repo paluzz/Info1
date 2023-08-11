@@ -1,4 +1,4 @@
-### APRENDIENDO LENGUAJE C
+# APRENDIENDO LENGUAJE C
 
 - Repositorio donde completo todo el  PDF adjunto resolviendo los ejercicios
 
