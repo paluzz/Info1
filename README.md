@@ -1,4 +1,4 @@
-### APRENDIENDO LENGUAJE C
+# APRENDIENDO LENGUAJE C
 
 - Repositorio donde completo todo el  PDF adjunto resolviendo los ejercicios
 
@@ -11,4 +11,4 @@
 
 - Funciones para controlar vectores
 
-- Para mas informacion [ver](Info1/Utils/funciones.c)
+- Para mas informacion click [aquí](/Utils/funciones.c)
