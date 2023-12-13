@@ -1,0 +1,10 @@
+damian,31
+ariel,12
+roco,5
+gris,1
+pepe,56
+luna,6
+sofia,11
+alex,7
+coco,10
+ana,44
