@@ -1,0 +1,4 @@
+Esta es la resolucion que queria hacer originalmente
+No pude hacerla durante el parcial xq no sabia manejar memoria dinamica en matrices
+y perdi mucho tiempo. En esta solucion utilize memoria estatica de mat
+

@@ -1,0 +1,8 @@
+Teorico Damian Palacios
+1) ninguna de las anteriores, ya que a no esta inicializada y no tiene valor
+2) Falta agregar el #include <stdio.h>
+3) Para mostrar todos los warnings
+4) Ninguna de las anteriores: nunca se definio nombre para el string
+5] int r = 10 % 2; donde r = 0
+6) xD
+
